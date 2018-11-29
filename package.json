@@ -11,6 +11,8 @@
   "author": "Raí Siqueira <rai93siqueira@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "mdx-deck": "^1.8.1"
+    "file-loader": "^2.0.0",
+    "mdx-deck": "^1.8.1",
+    "raw-loader": "^0.5.1"
   }
 }
